@@ -1,0 +1,161 @@
+[
+  {"name":"Advertising & Marketing","magnitt":"Advertising and Marketing","Monshaat":"Advertising and Marketing"},
+  {"name":"Aerospace & Defence","magnitt":"Aerospace & Defence","Monshaat":"Aerospace & Defence"},
+  {"name":"Agriculture","magnitt":"Agriculture","Monshaat":"Agriculture"},
+  {"name":"Architecture & Design","magnitt":"Architecture & Design","Monshaat":"Architecture & Design"},
+  {"name":"Construction & Infrastructure","magnitt":"Construction & Infrastructure","Monshaat":"Construction"},
+  {"name":"Cyber Security","magnitt":"Cyber Security","Monshaat":"Cyber Security"},
+  {"name":"E‑commerce","magnitt":"E-commerce/Retail","Monshaat":"E-commerce"},
+  {"name":"Retail","magnitt":"Retail","Monshaat":"Retail"},
+  {"name":"EdTech","magnitt":"EdTech","Monshaat":"EdTech"},
+  {"name":"Energy","magnitt":"Energy","Monshaat":"Energy"},
+  {"name":"Enterprise Software","magnitt":"Enterprise Software","Monshaat":"Enterprise Software"},
+  {"name":"Events","magnitt":"Events","Monshaat":"Events"},
+  {"name":"Fashion & Lifestyle","magnitt":"Fashion & Lifestyle","Monshaat":"Fashion & Beauty"},
+  {"name":"FinTech","magnitt":"FinTech","Monshaat":"FinTech"},
+  {"name":"Food & Beverage","magnitt":"Food & Beverage","Monshaat":"Food & Beverage"},
+  {"name":"Gaming","magnitt":"Gaming","Monshaat":"Gaming"},
+  {"name":"Healthcare","magnitt":"Healthcare","Monshaat":"Healthcare"},
+  {"name":"Home Services","magnitt":"Home Services","Monshaat":"Home Services"},
+  {"name":"IT Solutions","magnitt":"IT Solutions","Monshaat":"IT Solutions"},
+  {"name":"Legal","magnitt":"Legal","Monshaat":"Legal"},
+  {"name":"Life Sciences","magnitt":"Life Sciences","Monshaat":"Life Sciences"},
+  {"name":"Manufacturing & Industrial","magnitt":"Manufacturing","Monshaat":"Industrial"},
+  {"name":"Media & Entertainment","magnitt":"Media & Entertainment","Monshaat":"Media & Entertainment"},
+  {"name":"Real Estate","magnitt":"Real Estate","Monshaat":"Real Estate"},
+  {"name":"Sports & Fitness","magnitt":"Sports & Fitness","Monshaat":"Sports & Fitness"},
+  {"name":"Sustainability","magnitt":"Sustainability","Monshaat":"Sustainability"},
+  {"name":"Telecom & Communications","magnitt":"Telecom & communications","Monshaat":"Telecom & Communications"},
+  {"name":"Transport & Logistics","magnitt":"Transport & Logistics","Monshaat":"Transport"},
+  {"name":"Travel & Tourism","magnitt":"Travel & Tourism","Monshaat":"Travel & Tourism"},
+
+  
+
+
+  {"name":"AR/VR","magnitt":"","Monshaat":"AR/VR"},
+  {"name":"Artificial Intelligence","magnitt":"","Monshaat":"Artificial Intelligence"},
+  {"name":"Blockchain","magnitt":"","Monshaat":"Blockchain"},
+  {"name":"Creative Industries","magnitt":"","Monshaat":"Creative"},
+  {"name":"Cryptocurrency","magnitt":"","Monshaat":"Cryptocurrency"},
+  {"name":"Data Analytics & BI","magnitt":"","Monshaat":"Data Analytics and Business Intelligence"},
+  {"name":"General","magnitt":"","Monshaat":"General"},
+  {"name":"Hardware","magnitt":"","Monshaat":"Hardware"},
+  {"name":"Insurance","magnitt":"","Monshaat":"Insurance"},
+  {"name":"IoT","magnitt":"","Monshaat":"IoT"},
+  {"name":"Multimedia","magnitt":"","Monshaat":"Multimedia"},
+  {"name":"Productivity Apps","magnitt":"","Monshaat":"Productivity apps"},
+  {"name":"Renewable Energy","magnitt":"","Monshaat":"Renewable Energy"},
+  {"name":"Robotics","magnitt":"","Monshaat":"Robotics"},
+  {"name":"Social Entrepreneurship","magnitt":"","Monshaat":"Social Entrepreneurship"},
+  {"name":"Space Tech","magnitt":"","Monshaat":"Space Tech"},
+  {"name":"Technology","magnitt":"","Monshaat":"Technology"},
+  {"name":"Video & Animation","magnitt":"","Monshaat":"Video & Animation"},
+  {"name":"HR & Recruitment","magnitt":"","Monshaat":"HR and Recruitment"},
+  {"name":"Social Sector","magnitt":"","Monshaat":"Social Sector"},
+  {"name":"Volunteer Work","magnitt":"","Monshaat":"Volunteer Work"},
+  {"name":"Philanthropy","magnitt":"","Monshaat":"Philanthropy"},
+  {"name":"Software","magnitt":"","Monshaat":"Software"},
+  {"name":"SaaS","magnitt":"","Monshaat":"SaaS"},
+  {"name":"Cloud Platforms","magnitt":"","Monshaat":"Cloud Platforms"},
+  {"name":"Hajj & Umrah","magnitt":"","Monshaat":"Hajj and Umrah"},
+  {"name":"Quality of Life","magnitt":"","Monshaat":"Quality of Life"},
+  {"name":"Maintenance Services","magnitt":"","Monshaat":"Maintenance Services"},
+  {"name":"Biotechnology","magnitt":"","Monshaat":"Biotechnology"},
+  {"name":"CRM","magnitt":"","Monshaat":"CRM"},
+  {"name":"Consulting","magnitt":"","Monshaat":"Consulting"},
+  {"name":"HR Management","magnitt":"","Monshaat":"HR Management"},
+  {"name":"Supply Chain Management","magnitt":"","Monshaat":"Chain Management Supply"}
+
+
+  { "sub": "Artificial Intelligence",          "main": "Artificial Intelligence" },
+  { "sub": "Data Analytics & BI",              "main": "Artificial Intelligence" },
+
+  { "sub": "Quantum Technologies",             "main": "Quantum Technologies" },
+
+  { "sub": "Aerospace & Defence",              "main": "Advanced Aviation" },
+
+  { "sub": "Delivery & Logistics",             "main": "Smart Logistics" },
+  { "sub": "E‑commerce",                       "main": "Smart Logistics" },
+  { "sub": "Supply Chain Management",          "main": "Smart Logistics" },
+  { "sub": "Transport & Logistics",            "main": "Smart Logistics" },
+
+  { "sub": "Cloud Platforms",                  "main": "Connectivity & Communication" },
+  { "sub": "IoT",                              "main": "Connectivity & Communication" },
+  { "sub": "Telecom & Communications",         "main": "Connectivity & Communication" },
+
+  { "sub": "Marine Technology",                "main": "Marine Technology" },
+
+  { "sub": "Maintenance Services",             "main": "Smart Cities" },
+  { "sub": "Quality of Life",                  "main": "Smart Cities" },
+
+  { "sub": "Space Tech",                       "main": "Space Technology" },
+
+  
+
+  { "sub": "Agriculture",                      "main": "Agriculture & Food" },
+  { "sub": "Food & Beverage",                  "main": "Agriculture & Food" },
+
+  { "sub": "Advertising & Marketing",          "main": "Consumer & Lifestyle" },
+  { "sub": "Fashion & Lifestyle",              "main": "Consumer & Lifestyle" },
+  { "sub": "Home Services",                    "main": "Consumer & Lifestyle" },
+  { "sub": "Retail",                           "main": "Consumer & Lifestyle" },
+  { "sub": "Sports & Fitness",                 "main": "Consumer & Lifestyle" },
+
+  { "sub": "AR/VR",                            "main": "Creative & Media" },
+  { "sub": "Creative Industries",              "main": "Creative & Media" },
+  { "sub": "Events",                           "main": "Creative & Media" },
+  { "sub": "Gaming",                           "main": "Creative & Media" },
+  { "sub": "Media & Entertainment",            "main": "Creative & Media" },
+  { "sub": "Multimedia",                       "main": "Creative & Media" },
+  { "sub": "Video & Animation",                "main": "Creative & Media" },
+
+  { "sub": "EdTech",                           "main": "Education & Talent" },
+  { "sub": "HR & Recruitment",                 "main": "Education & Talent" },
+  { "sub": "HR Management",                    "main": "Education & Talent" },
+
+  { "sub": "Energy",                           "main": "Energy & Environment" },
+  { "sub": "Renewable Energy",                 "main": "Energy & Environment" },
+  { "sub": "Sustainability",                   "main": "Energy & Environment" },
+
+  { "sub": "Blockchain",                       "main": "FinTech & Blockchain" },
+  { "sub": "Cryptocurrency",                   "main": "FinTech & Blockchain" },
+  { "sub": "FinTech",                          "main": "FinTech & Blockchain" },
+  { "sub": "Insurance",                        "main": "FinTech & Blockchain" },
+
+  { "sub": "Biotechnology",                    "main": "Health & Life Sciences" },
+  { "sub": "Healthcare",                       "main": "Health & Life Sciences" },
+  { "sub": "Life Sciences",                    "main": "Health & Life Sciences" },
+
+  { "sub": "Hardware",                         "main": "Industrial & Manufacturing" },
+  { "sub": "Industrial",                       "main": "Industrial & Manufacturing" },
+  { "sub": "Manufacturing & Industrial",       "main": "Industrial & Manufacturing" },
+  { "sub": "Robotics",                         "main": "Industrial & Manufacturing" },
+
+  { "sub": "Consulting",                       "main": "Legal & Professional Services" },
+  { "sub": "Legal",                            "main": "Legal & Professional Services" },
+
+  { "sub": "Architecture & Design",            "main": "Real Estate & Construction" },
+  { "sub": "Construction & Infrastructure",    "main": "Real Estate & Construction" },
+  { "sub": "Real Estate",                      "main": "Real Estate & Construction" },
+
+  { "sub": "Cyber Security",                   "main": "Security" },
+  { "sub": "Security",                         "main": "Security" },
+
+  { "sub": "Philanthropy",                     "main": "Social Impact" },
+  { "sub": "Social Entrepreneurship",          "main": "Social Impact" },
+  { "sub": "Social Sector",                    "main": "Social Impact" },
+  { "sub": "Volunteer Work",                   "main": "Social Impact" },
+
+  { "sub": "CRM",                              "main": "Software & SaaS" },
+  { "sub": "Enterprise Software",              "main": "Software & SaaS" },
+  { "sub": "IT Solutions",                     "main": "Software & SaaS" },
+  { "sub": "Productivity Apps",                "main": "Software & SaaS" },
+  { "sub": "SaaS",                             "main": "Software & SaaS" },
+  { "sub": "Software",                         "main": "Software & SaaS" },
+  { "sub": "Technology",                       "main": "Software & SaaS" },
+
+  { "sub": "Hajj & Umrah",                     "main": "Tourism & Hospitality" },
+  { "sub": "Travel & Tourism",                 "main": "Tourism & Hospitality" },
+
+  { "sub": "General",                          "main": "Other" }
+]
